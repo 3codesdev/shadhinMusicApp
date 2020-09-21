@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/shadhinMusicApp/static/css/main.f8add6ea.chunk.css",
+    "main.js": "/shadhinMusicApp/static/js/main.36011ba1.chunk.js",
+    "main.js.map": "/shadhinMusicApp/static/js/main.36011ba1.chunk.js.map",
+    "runtime-main.js": "/shadhinMusicApp/static/js/runtime-main.27be40d7.js",
+    "runtime-main.js.map": "/shadhinMusicApp/static/js/runtime-main.27be40d7.js.map",
+    "static/js/2.d0e7538b.chunk.js": "/shadhinMusicApp/static/js/2.d0e7538b.chunk.js",
+    "static/js/2.d0e7538b.chunk.js.map": "/shadhinMusicApp/static/js/2.d0e7538b.chunk.js.map",
+    "index.html": "/shadhinMusicApp/index.html",
+    "precache-manifest.5cd4756108acf3fa0b9b494403492c99.js": "/shadhinMusicApp/precache-manifest.5cd4756108acf3fa0b9b494403492c99.js",
+    "service-worker.js": "/shadhinMusicApp/service-worker.js",
+    "static/css/main.f8add6ea.chunk.css.map": "/shadhinMusicApp/static/css/main.f8add6ea.chunk.css.map",
+    "static/js/2.d0e7538b.chunk.js.LICENSE.txt": "/shadhinMusicApp/static/js/2.d0e7538b.chunk.js.LICENSE.txt",
+    "static/media/feather.css": "/shadhinMusicApp/static/media/Feather.fe159434.ttf",
+    "static/media/artist1.jpg": "/shadhinMusicApp/static/media/artist1.3fe8edbd.jpg",
+    "static/media/font-awesome.min.css": "/shadhinMusicApp/static/media/fontawesome-webfont.dfb02f8f.woff",
+    "static/media/logo2.png": "/shadhinMusicApp/static/media/logo2.303ea1f4.png",
+    "static/media/notification1.jpg": "/shadhinMusicApp/static/media/notification1.8b49eee8.jpg",
+    "static/media/notification2.jpg": "/shadhinMusicApp/static/media/notification2.1daa4e3e.jpg",
+    "static/media/notification3.jpg": "/shadhinMusicApp/static/media/notification3.aa354920.jpg",
+    "static/media/style.css": "/shadhinMusicApp/static/media/subscription-header-bg.241236e7.jpg",
+    "static/media/user.jpg": "/shadhinMusicApp/static/media/user.65f702bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27be40d7.js",
+    "static/js/2.d0e7538b.chunk.js",
+    "static/css/main.f8add6ea.chunk.css",
+    "static/js/main.36011ba1.chunk.js"
+  ]
+}
