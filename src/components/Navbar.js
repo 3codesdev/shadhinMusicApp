@@ -42,7 +42,7 @@ const Navbar = () => {
                         <form>
                             <input type="" name="" onKeyUp={searchHandler} placeholder="Search artist, songs, videos..."/>
                             <button type="submit" className="btn-submit"><i className="fa fa-search"></i></button>
-                            <button className="search-cancil"><img src={iconCross} /></button>
+                            <button className="search-cancil" type="button"><img src={iconCross} /></button>
                         </form>
                     </div>
                     <div className="search-reasult">
